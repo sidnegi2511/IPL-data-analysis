@@ -22,6 +22,34 @@ There is only 14% chance of winning when a team is chasing 200+ runs in a game.
 - Which bowlers can thrive well in powerplays and death overs?
 Different sets of bowlers do well in these two conditions. The notebook gives a list of bowlers who does well in each scenario across many seasons.
 
+## Conclusion
+
+- It is not true that toss winners win the match
+
+- There is a high chance that the team scoring 200+ wins the match
+
+- David Warner's form looks to be improving season by season.
+
+- Virat Kohli holds the record of most runs in a season 973.There has been a sharp decline in Kohli's Runs from 2016 to 2017.\
+
+- Raina has consistently scored 300+ runs in every season
+
+- Virat has most number of 1s and is among the top 5 batsman with most 1s,2s,4s and 6s.
+
+- Gayle has most number of 6s. Gambhir has most number of 4s. Dhoni has most number of 2s.
+
+- Suresh Raina has scored the most runs in IPL followed by Virat Kohli and Rohit sharma.
+
+- RCB has scored most number of sixes and MI have scored most number of 4s
+
+- Average runs scored per match by RCB was highest in 2016.RCB has highest team total 263 runs.
+
+- The most common dismissal type in IPL is caught followed by bowled. There are very few instances of hit wicket as well.
+
+- Chris Gayle has won the most number of man of the match awards.
+
+- In the initial seasons of IPL, there is no much difference in number of times toss winners chose to bat and field.In seasons 2009, 2010, 2013 batting first was the preferred choice.Whereas in the last few seasons it is clearly seen that the trend is to bowl first. By hypothesis Testing, We have come to a conclusion that the pitches in South Africa are less batsmen supportive than those of India. Alongside this we have arrived at multiple other conclusions about the performances of players.
+
 ## Technology used
 
 Language: Python version 3.7
